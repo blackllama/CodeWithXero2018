@@ -50,3 +50,8 @@
 * Bernard
 
 ## Otago University Students
+
+
+## University of Canterbury
+
+*
