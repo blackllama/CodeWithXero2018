@@ -49,4 +49,7 @@
 * Ke$hav
 * Bernard
 
+# Will the grad is awesome
+![](https://media.giphy.com/media/5xaOcLGm3mKRQuDYCgU/giphy.gif)
+
 ## Otago University Students
