@@ -49,7 +49,7 @@
 * Ke$hav
 * Bernard
 
-## Otago University Students
+## Massey University Students
 
 
 ## Vic Uni Students
