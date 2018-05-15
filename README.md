@@ -51,12 +51,14 @@
 
 
 ## Otago University Students
+* Tom Maxted
 * Robbie
 
 ## Massey University Students
 
 
 ## Vic Uni Students
+
 
 
 
