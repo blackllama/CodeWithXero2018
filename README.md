@@ -56,6 +56,7 @@
 ## Massey University Students
 * Miles Wan
 * Chris Macdonald
+* Cameron Skyler Lind
 
 ## Vic Uni Students
 
