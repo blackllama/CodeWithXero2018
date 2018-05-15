@@ -50,7 +50,7 @@
 * Bernard
 
 ## Massey University Students
-
+* Cameron Skyler Lind
 
 ## Vic Uni Students
 
