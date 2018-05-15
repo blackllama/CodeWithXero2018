@@ -49,10 +49,18 @@
 * Ke$hav
 * Bernard
 
+## Otago University Students
+* Tom Maxted
+* Robbie
+
 ## Massey University Students
+* Miles Wan
 * Chris Macdonald
 
 ## Vic Uni Students
+
+
+## University of Canterbury
 
 
 
