@@ -50,7 +50,7 @@
 * Bernard
 
 ## Massey University Students
-
+* Chris Macdonald
 
 ## Vic Uni Students
 
